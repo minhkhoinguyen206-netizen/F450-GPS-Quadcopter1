@@ -1,0 +1,4 @@
+# Placeholder.
+#
+# Regenerate with `dump all` in the INAV CLI and paste the console output here.
+# See notes.md for the open item on motor_pwm_protocol.

@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTE ON SCOPE
+
+This licence covers the documentation and the analysis and firmware code in
+this repository.
+
+The photographs are (c) Nguyen Minh Khoi, all rights reserved.
+
+Component specifications quoted for third-party parts remain the property of
+their respective manufacturers and are reproduced here for reference only.
+
+This vehicle carries mass on unguarded propellers turning at over 7000 rpm.
+This repository documents one build. It is not a construction guide, and
+nothing in it has been reviewed for airworthiness. Anyone reproducing any part
+of it is responsible for compliance with the aviation regulations that apply to
+them and for their own safety practices.
